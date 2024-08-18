@@ -22,7 +22,7 @@ A Python application to retrieve and display current weather conditions and fore
 **Installation**
 ---------------
 
-1. Clone the repository: `git clone https://github.com/pradeep=lit/realtime-weather.git`
+1. Clone the repository: `git clone https://github.com/pradeep-lit/realtime-weather.git`
 2. Install the required libraries
 3. Run the application: `python weather.py`
 
